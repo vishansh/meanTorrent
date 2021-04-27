@@ -4,7 +4,7 @@
   "repository": "https://github.com/taobataoma/meanTorrent",
   "logo": "http://meanjs.org/img/logo-small.png",
   "keywords": [
-    "mongodb",
+    "ormongo",
     "express",
     "angularjs",
     "node.js",
